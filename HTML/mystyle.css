@@ -30,3 +30,22 @@ body{
 #navbar .active{
     background-color: blue;
 }
+
+img{
+    max-width: 100%;
+}
+
+img#uom-logo{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+img#terminal{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+    display: block;
+}
