@@ -49,3 +49,18 @@ img#terminal{
     margin: 0 auto;
     display: block;
 }
+
+.transform-animation{
+    width: 50px;
+    height: 50px;
+    margin: 100px;
+    background-color: red;
+}
+
+#transform-animation:hover{
+    transform: scale(2,2);
+}
+
+#transform-animation-2:hover{
+    transform: rotate(75deg);
+}
