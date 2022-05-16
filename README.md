@@ -22,3 +22,7 @@ The animation-timing-function property can have the following values:
 - ease-out - Specifies an animation with a slow end
 - ease-in-out - Specifies an animation with a slow start and end
 - cubic-bezier(n,n,n,n) - Lets you define your own values in a cubic-bezier function
+
+# Golden Rules of UI/UX Design
+
+![Golden Rules](golden.png)
