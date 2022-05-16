@@ -26,3 +26,7 @@ The animation-timing-function property can have the following values:
 # Golden Rules of UI/UX Design
 
 ![Golden Rules](golden.png)
+
+# The New Responsive
+
+https://web.dev/new-responsive/
