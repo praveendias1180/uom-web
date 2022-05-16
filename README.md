@@ -30,3 +30,7 @@ The animation-timing-function property can have the following values:
 # The New Responsive
 
 https://web.dev/new-responsive/
+
+# The Certificate
+
+![Cert](web-design-cert.png)
